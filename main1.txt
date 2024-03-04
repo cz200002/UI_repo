@@ -1,2 +1,4 @@
 main1
-thhis is in main
+<<<<<<< HEAD
+thhis is in main, and this is feat branch
+>>>>>>> feat
